@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "962987794202",
+    "project_id": "trueproof-flutter",
+    "storage_bucket": "trueproof-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962987794202:android:c3cf722663603f7cff16a3",
+        "android_client_info": {
+          "package_name": "com.example.trueproofflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962987794202-6903nqikiu0se7gadonbvb68k62n155p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trueproofflutter",
+            "certificate_hash": "d92a491563e27c2b95dacd58ca59281984f8205f"
+          }
+        },
+        {
+          "client_id": "962987794202-7sfe8h7n70pi956pf1dcmufl62c75gq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trueproofflutter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "962987794202-8f3qeuuteuvv2qitrtomc4rrb5korkhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZU6jbSOni6ggu0QDKhSMDS_Ofd4ZcDYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962987794202-8f3qeuuteuvv2qitrtomc4rrb5korkhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962987794202-o2rngtrl4iikh33al8g8cirrl7q9f71c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.trueproofflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962987794202:android:27b64eac57c1d940ff16a3",
+        "android_client_info": {
+          "package_name": "com.mycompany.trueproofflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962987794202-9mo1lsel8gd9tsd7ks0i5s2itk3rbedf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.trueproofflutter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "962987794202-8f3qeuuteuvv2qitrtomc4rrb5korkhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZU6jbSOni6ggu0QDKhSMDS_Ofd4ZcDYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962987794202-8f3qeuuteuvv2qitrtomc4rrb5korkhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962987794202-o2rngtrl4iikh33al8g8cirrl7q9f71c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.trueproofflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
